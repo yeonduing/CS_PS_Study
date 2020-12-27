@@ -30,9 +30,9 @@
 요일<br>담당자 | 월 | 화 | 수 | 목 | 금 | 토 | 일
 :---: | --- | --- | --- | --- | --- | --- | ---
 병건 | [코사라주]()<br>[이론 정리]() | | | | | | |
+선규 | [위상정렬](https://programmers.co.kr/learn/courses/30/lessons/67260)<br>[이론 정리]() | | | | | | |
 수정 | [다익스트라](https://www.acmicpc.net/problem/10282)<br>[이론 정리]() | | | | | | |
 연수 | [타잔](https://www.acmicpc.net/problem/2150)<br>[이론 정리]() | | | | | | |
-선규 | [위상정렬](https://programmers.co.kr/learn/courses/30/lessons/67260)<br>[이론 정리]() | | | | | | |
 
 <br/>
 
