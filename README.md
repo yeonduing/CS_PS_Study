@@ -29,9 +29,9 @@
 ## 📆 스케쥴(1 주차)
 요일<br>담당자 | 월 | 화 | 수 | 목 | 금 | 토 | 일
 :---: | --- | --- | --- | --- | --- | --- | ---
-병건 | [코사라주]()<br>[이론 정리]() | | | | | | |
-선규 | [위상정렬](https://programmers.co.kr/learn/courses/30/lessons/67260)<br>[이론 정리]() | | | | | | |
-수정 | [다익스트라](https://www.acmicpc.net/problem/10282)<br>[이론 정리]() | | | | | | |
+병건 | [코사라주]()<br>[이론 정리](https://github.com/yeonduing/CS_PS_Study/blob/main/Algorithm/Kosraju's%20Algorithm.md) | | | | | | |
+선규 | [위상정렬](https://programmers.co.kr/learn/courses/30/lessons/67260)<br>[이론 정리](https://github.com/yeonduing/CS_PS_Study/blob/main/Algorithm/위상%20정렬%20(Topological%20Sort).md) | | | | | | |
+수정 | [다익스트라](https://www.acmicpc.net/problem/10282)<br>[이론 정리](https://github.com/yeonduing/CS_PS_Study/blob/main/Algorithm/The%20Dijkstra's%20Algorithm.md) | | | | | | |
 연수 | [타잔](https://www.acmicpc.net/problem/2150)<br>[이론 정리]() | | | | | | |
 
 <br/>
@@ -50,7 +50,7 @@
    - SUFFIX ARRAY
    - 크루스칼
    - 벨만포드
-   - 다익스트라(누군가,게스트는 바로바로 나! 스위리ㅋㅋㅋ)
+   - 다익스트라(수정)
    - 플로이드
    - SCC
        - 위상정렬(선규)
